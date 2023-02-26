@@ -1,0 +1,18 @@
+{
+    "name": "pc/blsk",
+    "autoload": {
+        "psr-4": {
+            "Pc\\Blsk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Piotr",
+            "email": "lukaszewicz1piotr@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/webapp-pack": "^1.1",
+        "symfony/security-bundle": "^6.2"
+    }
+}
